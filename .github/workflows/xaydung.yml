@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.QFLCNXM/onclite_images_V12.0.1.0.QFLCNXM_20210116.0000.00_10.0_cn_330abbd280.tgz
+  ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
